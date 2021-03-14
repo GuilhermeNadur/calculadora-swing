@@ -1,4 +1,4 @@
-# Calculadora do macOS
+# Calculadora do macOS (Swing)
 
 Projeto do Curso de Java (Udemy)
 
