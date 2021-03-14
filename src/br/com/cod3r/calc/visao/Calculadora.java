@@ -12,6 +12,7 @@ public class Calculadora extends JFrame {
 		
 		organizarLayout();
 		
+		setTitle("Calculadora");
 		setSize(232, 322);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);
